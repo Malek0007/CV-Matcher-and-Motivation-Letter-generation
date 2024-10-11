@@ -1,0 +1,38 @@
+Experience
+NLP & Machine Learning Intern
+Insurance Company – Jan 2024 – Present
+
+Developed a system to process, correct, and translate accident reports using NLP techniques.
+Leveraged transformer-based models for sentiment analysis and text generation, improving the quality of accident reports by 30%.
+Implemented multilingual text generation for insurance claims, using fine-tuned GPT-2 and T5 models.
+Worked closely with cross-functional teams to deploy the system in a Flask-based web application.
+Machine Learning Engineer (Freelancer)
+Various Projects – 2023 – Present
+
+Built custom NLP pipelines for text classification and named entity recognition using spaCy and Hugging Face.
+Designed a model to classify and extract key accident details, including date, place, and vehicle type from multilingual datasets.
+Created a multilingual car accident dataset by translating data between French, Arabic, and English using Google Translate API and Hugging Face models.
+Developed an LLM-powered chatbot for generating accurate accident summaries and answering customer queries.
+Education
+Higher School of Communication of Tunis (SUP'COM)
+B.Sc. in Information and Communication Technology Engineering – Expected Dec 2024
+
+Specialized in Artificial Intelligence and Machine Learning.
+Developed several projects focused on NLP, such as accident report generation, sentiment analysis, and translation models.
+Certifications
+Hugging Face Certified NLP Engineer (2023)
+TensorFlow Developer Certificate (2022)
+Projects
+Multilingual Car Accident Report Generator
+
+Created a system for translating and correcting multilingual accident reports using a hybrid NLP pipeline (spaCy, Hugging Face, Google Translate API).
+Extracted relevant entities like places, dates, and vehicle types using custom NER models.
+Admin Dashboard for Data Analysis (MERN Stack)
+
+Built an admin dashboard with visualizations of data center node statistics using React, Material UI, and Nivo Charts.
+Integrated Python-based predictions for network health monitoring.
+Achievements
+Winner of multiple AI-focused hackathons, showcasing skills in NLP and text generation.
+Published a paper on improving multilingual text correction in accident reports using hybrid models.
+Languages
+French (Native), English (Fluent), Arabic (Fluent)
