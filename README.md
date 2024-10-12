@@ -15,6 +15,7 @@ This project is a web application designed to assist users in matching resumes w
 
 ### Motivation Letter Generation
 
+![Motivation Letter Example](images/Generated_Motivation_Letter.png)
 - The application utilizes OpenAI's GPT-3.5 model to generate a motivation letter tailored to the job description provided by the user.
 - This letter serves as a helpful template for users to customize further, enhancing their application package.
 
