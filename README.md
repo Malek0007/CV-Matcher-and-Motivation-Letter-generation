@@ -7,7 +7,7 @@ This project is a web application designed to assist users in matching resumes w
 ## Main Features
 
 ### Resume Matching
-
+![Resume Matching UI](images/Matching.png)
 - Users can upload multiple resume files in various formats, including PDF, DOCX, TXT, and image files.
 - The application extracts and preprocesses the text from the uploaded resumes.
 - It compares the resumes against a job description provided by the user, calculating similarity scores using TF-IDF (Term Frequency-Inverse Document Frequency) vectorization and cosine similarity metrics.
