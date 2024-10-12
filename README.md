@@ -1,8 +1,9 @@
 # CV Matcher and Motivation Letter Generation
 
 ## Project Overview
-
+![Application Overview](images/App.png)
 This project is a web application designed to assist users in matching resumes with job descriptions and generating tailored motivation letters. 
+
 ## Main Features
 
 ### Resume Matching
