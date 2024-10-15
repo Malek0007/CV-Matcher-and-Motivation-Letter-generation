@@ -40,4 +40,4 @@ This project is a web application designed to assist users in matching resumes w
 
 ### Tesseract OCR:
 
-- An open-source OCR engine used to extract text from image files. The application specifies the path to the Tesseract executable to facilitate this.
+- An open-source OCR engine used to extract text from image files. In the application I specifie the path to the Tesseract executable to facilitate this.
